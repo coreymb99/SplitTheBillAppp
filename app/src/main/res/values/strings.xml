@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Split The Bill App 2</string>
+    <string name="txtTitle">Split the Bill</string>
+    <string name="imgDining">Picture of Dining</string>
+    <string name="btnPayment">Go To Payment</string>
+    <string name="hntBill">What is the Restauraunt Bill?</string>
+    <string name="hntGroup">How many people are in your group?</string>
+    <string name="txtBill"></string>
+    <string name="spnQuality">Rate the service:</string>
+    <string-array name="spnQuality">
+        <item> Excellent </item>
+        <item> Average </item>
+        <item> Poor </item>
+    </string-array>
+    <string name="btnCalculate">Calculate Bill</string>
+</resources>
